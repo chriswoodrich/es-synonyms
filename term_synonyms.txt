@@ -1,0 +1,85 @@
+allergy, allergist
+anesthisiology, anesthesiologist, anes, anest
+assistant, asst
+administrator, admin
+cardiology, cardiologist, card, cardio, heart
+chiropractor, chiro
+dental, dentist
+dermatology, dermatologist, derm
+echocardiography, echo
+endocrinology, endocrinologist, endo, endocrine
+gastrointestinal, gastroenterology, gastroenterologist
+hematology, heme, hematologist, hematologic
+oncology, oncologist, onc
+interventional, interv, inter
+laboratory, labratory, lab
+medical, medicine, med
+micro, microbiology, microbiologist
+nephrology, nephrologist, neph
+neonatal, neonate, neonat, perinatal, neoperi
+neurology, neurologist, neuro
+nutrition, nutritionist, nutritional, nut, diet, dietician, dietitian
+gyn, obgyn, obstetrician, gynecology, gynecologist, obstetrics
+ophthalmology, opthamology, ophthamology, opthalmology, opth, ophth,
+optho, ophtho, ophtha
+optometry, optometrist, opto
+orthopedic, ortho
+pancreas, pancreatic, panc
+pediatric, pediatrics, pediatrician
+podiatry, podiatrist, podiatric
+pulmonology, pulmonologist, pulm, lung
+psychiatry, psychiatrist, psych, mental
+radiology, radiologist
+rehabilitation, rehab
+renal, kidney
+reproductive, repro
+respiratory, resp
+rheumatology, rheumatologist, rheum
+surgery, surgeon, surg
+thor, thoracic
+toxicology, tox, toxicologist
+transplant, transplantation, transp
+vascular, vasc
+urology, uro, urol
+veterans, vet
+vascular, vasc
+valley, vlly, vly
+university, univ
+surgical, surg
+student, stud
+specialty, spec
+solutions, sol'ns
+severn, seern
+services, svc, svcs
+research, rsrch
+regional, reg, regnl
+radiologists, rads
+psychiatric, psych
+providence, prov
+professional, profnl
+presbyterian, presby
+partners, prtnrs
+outpatient, outpt
+nursing, nurs
+metropolitan, metro
+methodist, meth
+mercy, mrcy, mcy
+medical-tran, med-trans
+management, mgmt
+mammography, mammo
+lutheran, luth
+international, int'l
+institute, inst
+infirmary, infirm
+diagnostics, diags
+diagnostic, diag
+department, dept
+convalescent, conval
+consultants, cnslts
+community, comm
+building, bldg
+brothers, bros
+behavioral, behav
+baptist, bapt
+association, assn, assocn
+associates, assocs

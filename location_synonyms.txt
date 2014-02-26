@@ -1,0 +1,111 @@
+# EVERYTHING MUST BE LOWERCASE
+# ucsf => university of california san francisco
+# the above means that when you search for ucsf it will be tokenized into 5 tokens:
+# [university, of, california, san, francisco] and it will match any of those tokens
+
+al, alabama, ala
+ak, alaska
+az, arizona, ariz
+ar, arkansas, ark
+ca, california, cali
+co, colorado, col
+ct, connecticut, conn
+de, delaware, del
+fl, florida, flor
+ga, georgia
+hi, hawaii
+id, idaho
+il, illinois, ill
+in, indiana, ind
+ia, iowa
+ks, kansas, kans
+ky, kentucky
+la, lousiana
+me, maine
+md, maryland
+ma, massachusetts, mass
+mi, michigan, mich
+mn, minnesota, minn
+ms, mississippi
+mo, missouri
+mt, montana
+ne, nebraska, nebr
+nv, nevada, nev
+oh, ohio
+ok, oklahoma, okla
+or, oregon, oreg
+pw, palau
+pa, pennsylvania
+tn, tennesse
+tx, texas
+ut, utah
+vt, vermont
+vi, virgin islands
+va, virginia
+wa, washington
+wi, wisconsin
+wy, wyoming
+mexico, mex
+atlanta, atl
+manhattan, nyc, ny
+boston, bos
+chicago, chi
+as => american samoa
+wv => west virginia
+pr => puerto rico
+ri => rhode island
+sc => south carolina
+sd => south dakota
+nh => new hampshire
+nj => new jersey
+nm => new mexico
+ny => new york
+nc => north carolina
+nc => north dakota
+dc => district of columbia
+mass gen => massachusetts general
+bwh => brigham women
+bid => beth israel deaconess
+nyp => newyork-presbyterian
+ucsf => university of california san francisco
+sfgh => san francisco general hospital
+ucsd => university of california san diego
+ucla => university of california los angeles
+ucd => university of california davis
+uci => university of california irvine
+undmj => university of dentistry and medicine of new jersey
+usc => university of southern california
+upenn => university of pennsylvania
+bu => boston university
+umass => university of massachusetts
+cpmc => california pacific medical center
+cho => children's hospital of oakland, oakland children's hospital
+mdacc => md anderson cancer center
+mskcc => memorial sloan-kettering cancer center
+uwmc => university of washington medical center
+ucdmc => university of california davis medical center
+dukehealth => duke university medical center
+shc => stanford hospital and clnics
+umhs => university of michigan health system
+ucmc => university of chicago medical center
+hup => hospital of the university of pennsylvania
+bjc healthcare => barnes-jewish hospital
+mcc => moffitt cancer center
+osuccc-james, osuccc => ohio state university james cancer hospital
+nmh => northwestern memorial hosital
+ummc => university of maryland medical center
+ynhh => yale-new haven hospital
+nyulmc => nyu langone medical center
+vumc => vanderbilt university medical center
+rpci => roswell park cancer institute
+uihc => university of iowa hospitals and clinics
+uwhc => university of wisconsin hospitals and clinics
+upmc => university of pittsburgh medical center
+tjuh => thomas jefferson university hospital
+shands => shands at the university of florida
+euh => emory university hospital
+fccc => fox chase cancer center
+humc => hackensack university medical center
+kumed => university of kansas hospital
+uscnch => usc norris cancer hospital
+ucimc => uc irvine medical center
