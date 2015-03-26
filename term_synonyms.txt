@@ -83,3 +83,13 @@ behavioral, behav
 baptist, bapt
 association, assn, assocn
 associates, assocs
+cmo, chief medical officer
+ceo, chief executive officer
+cmio, chief medical information officer
+cio, chief information officer
+vp, vice president
+svp, senior vice president
+cao, chief administration officer
+cso, chief strategy officer
+coo, chief operations officer
+cqo, chief quality officer
