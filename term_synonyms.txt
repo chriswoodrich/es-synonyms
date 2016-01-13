@@ -83,13 +83,35 @@ behavioral, behav
 baptist, bapt
 association, assn, assocn
 associates, assocs
-cmo, chief medical officer
+aprn, advanced practice nurse
+cao, chief administrative officer
+cco, chief compliance officer
+cdo, chief data officer
 ceo, chief executive officer
-cmio, chief medical information officer
+cfo, chief financial officer
+chro, chief human resources officer
 cio, chief information officer
-vp, vice president
-svp, senior vice president
-cao, chief administration officer
-cso, chief strategy officer
-coo, chief operations officer
+ciso, chief information security officer
+cmio, chief medical informatics officer
+cmo, chief medical officer
+cnm, certified nurse-midwife
+cohn, certified occupational health nurse
+coo, chief operating officer
+cpo, chief privacy officer
 cqo, chief quality officer
+cqo, chief quality officer
+crna, certified registered nurse anesthetist
+cso, chief security officer
+cto, chief technology officer
+division chief, division head
+evp, executive vice president
+gm, general manager
+lpn, licensed practical nurse
+lvn, licensed vocational nurse
+np, nurse practitioner
+nr, nurse researcher
+pa, physician assistant
+rn, registered nurse
+sevp, senior executive vice president
+svp, senior vice president
+vp, vice president
